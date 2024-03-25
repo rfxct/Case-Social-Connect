@@ -3,7 +3,7 @@ Projeto desenvolvido para ser entregue como checkpoint/avaliação da matéria d
 O objetivo é aplicar as correções informadas pelo professor, a fim de desenvolver e/ou aprimorar habilidades com Git, Github e HTML/CSS.
 
 ## Membros (1ESPW)
-- Alex Ribeiro    (557356)
-- Luca Monteiro   (556906)
-- Marcos Henrique (556228)
-- Victor Henrique (558258)
+- [Alex Ribeiro](https://github.com/Alekraque) (RM 557356)
+- [Luca Monteiro](https://github.com/lucamonteiro) (RM 556906)
+- [Marcos Henrique](https://github.com/rfxct) (RM 556228)
+- [Victor Henrique](https://github.com/Victor-Henrique-FM) (RM 558258)
